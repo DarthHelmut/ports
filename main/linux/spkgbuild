@@ -4,7 +4,7 @@
 name=linux
 version=5.12.1
 release=1
-source="https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-$version.tar.xz
+source="https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.12.9.tar.xz
 	config"
 NO_STRIP=yes
 
